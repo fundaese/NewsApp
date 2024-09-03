@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184783618028",
+    "project_id": "newsapp-cdfa6",
+    "storage_bucket": "newsapp-cdfa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184783618028:android:e25128a75cf19e339f0ac9",
+        "android_client_info": {
+          "package_name": "com.funda.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe2IwVdBce4_dkVWgjMxBqLO1VFcar44A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

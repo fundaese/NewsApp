@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="favorite_news">Beğeniler</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="nav_register">Hesabın yok mu? Kayıt Ol</string>
+    <string name="login">Giriş Yap</string>
+    <string name="password">Şifre</string>
+    <string name="mail">E-posta</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="name">Ad Soyad</string>
+    <string name="nav_login">Zaten hesabın var mı? Giriş Yap</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="share_article">Haberi Paylaş</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="sample_mail">user@example.com</string>
+    <string name="article_title">Article Title</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>

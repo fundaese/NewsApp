@@ -1,0 +1,26 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+        maven {
+            // r8 maven
+            url = uri("https://storage.googleapis.com/r8-releases/raw")
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.2.2'
+        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.0'
+        classpath 'com.google.gms:google-services:4.3.10'
+        classpath "androidx.navigation:navigation-safe-args-gradle-plugin:2.7.7"
+        classpath 'com.google.dagger:hilt-android-gradle-plugin:2.48'
+        classpath("com.android.tools:r8:8.2.16-dev")
+
+    }
+}
+
+allprojects {
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
